@@ -1,1 +1,2 @@
-Este é meu projeto para aprensentar meus cursos.
+# Site dos Cursos
+Este é meu projeto para aprensentar cursos e instrutores.
